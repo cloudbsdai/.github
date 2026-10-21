@@ -1,6 +1,6 @@
 <div align="center">
 
-# Cloud<span style="color:#22d3ee">BSD</span> AI
+# <img src="assets/wordmark.svg" alt="CloudBSD AI" width="340">
 
 CloudBSD AI — tools, catalogues and product surfaces for the CloudBSD platform.
 
