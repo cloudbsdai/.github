@@ -1,51 +1,33 @@
 <div align="center">
 
-# <img src="assets/wordmark.svg" alt="CloudBSD AI" width="340">
+<img src="assets/wordmark.svg" alt="CloudBSD AI" width="340">
 
-CloudBSD AI — tools, catalogues and product surfaces for the CloudBSD platform.
+### AI Management Surfaces & Catalogues for CloudBSD
 
-[cloudbsd.ai](https://cloudbsd.ai) · [Repositories](https://github.com/orgs/cloudbsdai/repositories)
+[cloudbsd.ai](https://cloudbsd.ai) · [cloudbsd.org](https://cloudbsd.org) · [Platform Repositories](https://github.com/cloudbsdorg)
 
 </div>
 
 ---
 
-## About
+## Overview
 
-`cloudbsdai` holds the tools, catalogues and product surfaces built around the
-CloudBSD platform: agent and inspection tooling, package and content
-catalogues, and the source behind the surfaces published at
-[cloudbsd.ai](https://cloudbsd.ai).
+`cloudbsdai` houses the AI-driven management plane, operational catalogues, and published surfaces for the CloudBSD platform.
 
-The CloudBSD platform itself is not held here. The base tree, the product
-overlays and the release pipeline live in
-[cloudbsdorg](https://github.com/cloudbsdorg).
+CloudBSD reimagines cluster infrastructure by putting autonomous AI directly in front of the FreeBSD virtualization stack—automating orchestration, cluster health, and operational diagnostics. This organization hosts the public catalogues and surfaces published at [cloudbsd.ai](https://cloudbsd.ai).
 
-## Where things live
+The core operating system, hypervisor architecture, and distribution overlays reside in [cloudbsdorg](https://github.com/cloudbsdorg).
 
-- **[cloudbsdorg](https://github.com/cloudbsdorg)** — the CloudBSD platform
-  repositories, including the FreeBSD ports overlay
-  `cloudbsdorg/cloudbsd-ports-overlay`.
-- **[cloudbsdai](https://github.com/cloudbsdai)** — tools, catalogues and
-  product surfaces for the platform.
+## Platform Ecosystem
 
-## Where to start
-
-- **[application_guidelines](https://github.com/cloudbsdorg/application_guidelines)** —
-  how products made for CloudBSD should behave.
-- **[honcho-inspector-ui](https://github.com/cloudbsdorg/honcho-inspector-ui)** —
-  frontend for the Honcho inspector.
-- **[honcho-inspector-backend](https://github.com/cloudbsdorg/honcho-inspector-backend)** —
-  backend for the Honcho inspector.
-- **[aeolus-examples](https://github.com/cloudbsdorg/aeolus-examples)** —
-  FreeBSD OCI images and ensemble examples for Aeolus.
-- **[freecode](https://github.com/cloudbsdorg/freecode)** —
-  a Go implementation of opencode.
+- **[cloudbsdorg](https://github.com/cloudbsdorg)** — The core CloudBSD platform repositories: base system, virtualization, and container runtimes.
+- **[cloudbsdai](https://github.com/cloudbsdai)** — Autonomous management surfaces, discovery catalogues, and telemetry tooling.
+- **[revytechai](https://github.com/revytechai)** & **[revytechinc](https://github.com/revytechinc)** — Enterprise deployment, systems consulting, and ecosystem engineering.
 
 ---
 
 <div align="center">
 
-*CloudBSD AI is part of the CloudBSD platform. See [cloudbsd.org](https://cloudbsd.org).*
+*Part of the CloudBSD platform. Visit [cloudbsd.ai](https://cloudbsd.ai) and [cloudbsd.org](https://cloudbsd.org).*
 
 </div>
